@@ -1,4 +1,4 @@
-# fruit-into-to-programming
+# fruit-intro-to-programming
 
 ## Prerequisites
 
