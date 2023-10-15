@@ -12,6 +12,6 @@
 ## First Steps
 
 - download template
-  - https://github.com/IVLIVS-III/fruit-into-to-programming/blob/main/fruitl_template.py
+  - https://github.com/IVLIVS-III/fruit-intro-to-programming/blob/main/fruitl_template.py
 - rename template
   - `fruitl.py`
