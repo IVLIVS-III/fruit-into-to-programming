@@ -1,6 +1,3 @@
-#! /usr/bin/python3
-
-
 def choose_option(name):
     ...
 
