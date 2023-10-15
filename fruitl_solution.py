@@ -1,6 +1,3 @@
-#! /usr/bin/python3
-
-
 def choose_option(name):
     print(f"Hallo {name}! Wie kann ich dir heute helfen?")
     print(" 1: Zwei Zahlen addieren")
